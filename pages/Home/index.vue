@@ -42,7 +42,7 @@ export default {
         //         firstName: 'Fred',
         //         lastName: 'Flintstone'
         //     }
-        //     });
+        //     }).then();
         
         // 合并方案
         // let _this = this
